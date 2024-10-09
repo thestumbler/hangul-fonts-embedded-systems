@@ -3,8 +3,8 @@
 Since in 1970, South Korea commemorates the founding of the Hangul
 alphabet on the 9th of October, first introduced by King Sejong the
 Great in 1446. To the casual observer, Korean text appears at first
-glance to be a logographic system. But the symbols are not pictures, but
-syllables, built from a basic alphabet of only 24 basic letters.
+glance to be a logographic system. But the symbols are not pictures.
+Rather, they are syllables built from an alphabet of 24 basic letters.
 Typically a syllable is made using two, three, or four letters. 
 
 Back ten-some years ago, I challenged myself to expand an On-Screen
@@ -30,4 +30,3 @@ and a few additional optimizations, the font table is only 3.2% of that
 -- 11,364 bytes.
 
 ![](table.png)
-
