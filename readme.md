@@ -26,7 +26,7 @@ table, and combines the letters into syllables on the fly when a given
 glyph is to be displayed. This tremendously reduces the font table size.
 In my particular OSD system, a traditional font table storage for all
 glyphs would have been 371,881 bytes. After applying the Johab technique
-and a few additional optimizations, the font table is only 3.2% of that
+and a few additional optimizations, the font table is only 3.1% of that
 -- 11,364 bytes.
 
 ![](table.png)
